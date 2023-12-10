@@ -1,5 +1,6 @@
 # Aleksa Zatezalo
 **`Digital Artisan (Hacker/Developer/Consultant)`**
+<img algin="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleksaZatezalo.AleksaZatezalo"/>
 
 H3ll0 W0r1d!
 
