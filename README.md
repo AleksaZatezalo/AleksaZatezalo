@@ -3,7 +3,7 @@
 
 H3ll0 W0r1d!
 
-My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer and infrastructure security consultant. This github profile contains a list of personal projects and cyber security reaserch projects I have created. Aside from my passion for mobile development, website development (& sometimes AI) I enjoy contributing to open source security projects such as Meta-sploit. Hopefully you find some cool security tools exploring this profile.
+My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer and infrastructure security consultant. This github profile contains a list of personal projects and cyber security reaserch projects I have created. Aside from my passion for mobile development, website development (& sometimes AI) I enjoy contributing to open source security projects such as Metasploit. Hopefully you find some cool security tools exploring this profile.
 
 ---
 ### 🧰 Primary Languages & Tools
