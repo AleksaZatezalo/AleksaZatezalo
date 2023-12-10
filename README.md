@@ -17,6 +17,9 @@ My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer
   <a href="https://www.youtube.com/channel/UCs3htMGLR720HXC3jBNWGxA" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
+  <a href="https://twitter.com/ZatezaloAleksa" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ---
