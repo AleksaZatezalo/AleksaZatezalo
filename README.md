@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @AleksaZatezalo
-- 👀 I’m interested in Full Stack Web Development, Cyber Security, Penetration Testing and the Cloud.
-- 🌱 I’m currently learning Red Teaming and Penetration Testing. 
-- 💞️ I’m looking to collaborate on any open source project involving Web Development,the Cloud, Artificial Intelligence or Cyber Security.
+# Aleksa Zatezalo
+**`Digital Artisan (Hacker/Developer/Consultant)`**
+
+H3ll0 W0r1d!
+
+My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer and infrastructure security consultant. This github profile contains a list of personal projects and cyber security reaserch projects I have created. Aside from my passion for mobile development, website development (& sometimes AI) I enjoy contributing to open source security projects such as Meta-sploit. Hopefully you find some cool security tools exploring this profile.
+
+---
+### 🧰 Primary Languages & Tools
+<img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="JavaScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Bash" width="6px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br></br>
+<br></br>
+
+#
 
 <!---
 AleksaZatezalo/AleksaZatezalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
