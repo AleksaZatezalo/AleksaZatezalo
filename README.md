@@ -36,14 +36,6 @@ My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer
 <br></br>
 <br></br>
 
-#
-
-
-<h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-
 
 <h2>⚡ Stats ⚡</h2>
 <br>
